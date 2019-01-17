@@ -1,4 +1,6 @@
-body { background-image: url(´\VisionaryHustlers\Resources\
-
-
+body { background-image: url(´\VisionaryHustlers\Resources\visionary1.png´);
+      background-repeat: repeat-x;
+      background-size:contain;
+      background-attachment:fixed;
+      
 }
